@@ -1,0 +1,7 @@
+/* pages/index/index.wxss */
+
+
+view{
+    /* color:var(--themeColor); */
+    font-size:28rpx
+}
